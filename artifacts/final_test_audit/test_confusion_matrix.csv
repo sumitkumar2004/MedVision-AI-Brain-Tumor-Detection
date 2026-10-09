@@ -1,0 +1,5 @@
+true_label,glioma,meningioma,notumor,pituitary
+glioma,258,92,20,16
+meningioma,13,357,11,17
+notumor,0,3,397,0
+pituitary,0,7,2,391

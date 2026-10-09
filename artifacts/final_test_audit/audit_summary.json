@@ -1,0 +1,13 @@
+{
+  "training_images": 5600,
+  "test_images": 1600,
+  "class_order": [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+  ],
+  "training_test_shared_hashes": 0,
+  "duplicate_test_groups": 15,
+  "cross_split_label_conflicts": 0
+}
